@@ -3,7 +3,7 @@ Content-Type: application/json
 
 {
     "name":"Testihenkilo",
-    "number":"1313-1333"
+    "number":"131-111111122"
 }
 
 ### Test for name that's already in use
